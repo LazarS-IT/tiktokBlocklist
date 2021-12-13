@@ -1,3 +1,4 @@
+# If you want to continue using tiktok, add this list that blocks only ad/tracking domains: https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
 0.0.0.0 api16-normal-c-useast1a.tiktokv.com
 0.0.0.0 frontier-va.tiktokv.com
 0.0.0.0 gecko16-normal-c-useast1a.tiktokv.com
